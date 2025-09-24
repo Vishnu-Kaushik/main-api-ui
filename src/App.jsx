@@ -7,7 +7,7 @@ function App() {
         <div style={{ padding: "20px" }}>
             {/* Health Check Section */}
             <div style={{ textAlign: "center", marginBottom: "40px" }}>
-                <h1>🚀 API Health Dashboard - v2</h1>
+                <h1>🚀 API Health Dashboard - v1</h1>
                 <HealthCheck />
             </div>
 
